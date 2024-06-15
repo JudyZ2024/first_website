@@ -1,5 +1,6 @@
 ---
 title: "About"
 ---
-
-Judy Zhu
+## About Me
+My name is **Judy Zhu** and Im going to *Mira Coasta*
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
